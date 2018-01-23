@@ -1,12 +1,13 @@
-Flexible Datasync iOS Chat library
 
-Build a realtime chat application by sharing data instantly between your clients.
+Flexible Datasync iOS Client SDK
 
-Module name: Webcom_api_ios_chat
-Version:     1.0.0
-Created:     24/01/2018
+Build realtime apps. Share and sync data instantly between your clients
 
-Copyright (C) 2018 Orange
+Module name: Webcom
+Version:     1.1.0
+Created:     01/12/2017
+
+Copyright (C) 2015 Orange
 
 This software is confidential and proprietary information of Orange.
 You shall not disclose such Confidential Information and shall use it only in
